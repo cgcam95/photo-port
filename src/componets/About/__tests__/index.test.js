@@ -16,4 +16,4 @@ describe('About component', () => {
         
         expect(asFragment()).toMatchSnapshot();             // compare whether the expected and actual outcomes match
       });
-    })
+    });
